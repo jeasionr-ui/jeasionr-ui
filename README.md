@@ -1,8 +1,7 @@
 
 
 <!-- 数据展示-主题&theme=radical-->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeasionr-ui&show_icons=true&theme=radical)![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=jeasionr-ui&theme=radical&hide_border=true")
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeasionr-ui&show_icons=true&theme=transparent)
 
 <!-- 展示总贡献量，输出图片颜色不一样-->
 <!-- <div align="center">
