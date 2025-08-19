@@ -1,7 +1,9 @@
 
 
 <!-- 数据展示-主题&theme=radical-->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeasionr-ui&show_icons=true&theme=transparent)
+<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=jeasionr-ui&show_icons=true&theme=transparent" />
+</div>
 
 <!-- 展示总贡献量，输出图片颜色不一样-->
 <!-- <div align="center">
